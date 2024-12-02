@@ -371,6 +371,7 @@ body.nav-active { overflow: hidden; }
   gap: 50px;
 }
 .hero-banner img {
+  border-radius: 50%;
   width: 300px;
   height: 300px;
   object-fit: cover; /* Ensures the image maintains aspect ratio */
